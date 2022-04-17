@@ -1,0 +1,20 @@
+.container-1{
+  border: 2px solid black;
+padding: 20px;
+text-align: center;
+}
+
+.flex-container-1{
+
+  padding: 2px;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.flex-items{
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+
+}
