@@ -1,8 +1,8 @@
-# javascript
+# Age_in_days_calculator 
 
-This is a simple Javascript Project.
+This is a simple Web Age_in_days_calculator.
 
 <b>Age in days calculator.</b>
 
-input your birthyear
+Input your birthyear
 and it will tell you how many days old you are.
